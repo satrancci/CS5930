@@ -42,7 +42,7 @@ api = tweepy.API(auth)
 
 followers = []
 
-user = tweepy.Cursor(api.followers, screen_name="WITTER_USERNAME").items()
+user = tweepy.Cursor(api.followers, screen_name="TWITTER_USERNAME").items()
 
 row_count = 56000
 wb = Workbook()
