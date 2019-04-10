@@ -1,0 +1,4 @@
+../data/clean/mccaskill_clean.txt
+../data/clean/hawley_team_clean.txt
+../data/clean/hawley_clean.txt
+../data/clean/mcaskill_team_clean.txt

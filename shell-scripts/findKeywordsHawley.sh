@@ -1,0 +1,1 @@
+cat ../shell-scripts/cleanFilenames.txt | sed 's/^\(.*\)$/"\1"/' | egrep 'hawley' | tr -d '\n' | sed 's/\("[^"]*"\)\("[^"]*"$\)/\1 \2/' | tr -d '"' | sed 's/^\(.*$\)/cat \1 | cut -f 6 | tail -n +2 | egrep -o [A-Za-z0-9]+ | sort | uniq -c | sort -r -n | more/' | bash -s
