@@ -24,7 +24,7 @@ get_token()
 
 setwd("")
 
-## Script 1 - iterating over rows in a column
+## Script 1 - iterating over rows in a column that contains Twitter usernames that we want to classify
 
 data <- read_csv("data.csv", col_names = F)
 head(data) # check whether data was loaded correctly
@@ -50,10 +50,10 @@ for (i in 1:length(data[[1]])) {
 }
 
 
-## Script 2 - reading from a character vector
+## Script 2 - reading from a character vector of Twitter usernames that we want to classify
 
 
-names <- # paste your vector here of form c ("a", "b", "c")
+names <- # paste your vector here of form c("a", "b", "c")
 
 
 output <- 'output.txt'
