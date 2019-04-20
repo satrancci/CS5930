@@ -15,3 +15,6 @@ The response vector will be column 2: 5042x1
 
 The dataset will be split into training matrix/response vector in Python
 The features will be standardized in Python as well
+
+NOTE: dataset_final is highly skewed into the bot binary class (4317 - yes, 725 - no).
+Therefore, I generated another dataset "dataset_equal_class.csv" where binary classes representation is 50/50. 
