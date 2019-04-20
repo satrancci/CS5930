@@ -8,3 +8,4 @@ Statuses_Count
 Favorites_Count
 Default_Profile (1 - yes, 0 - not)
 Default_Profile_Image (1 - yes, 0 - not)
+Tweets_per_day_ratio
