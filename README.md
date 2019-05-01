@@ -1,5 +1,4 @@
-As the project idea for this class, I decided to analyze Twitter activity of th\
-e 2018 United States Senate election in Missouri: McCaskill vs Hawley.
+As the project idea for this class, I decided to analyze Twitter activity of the 2018 United States Senate election in Missouri: McCaskill vs Hawley.
 
 The initial outline of the project was as follows:
 
