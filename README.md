@@ -10,6 +10,4 @@ The initial outline of the project was as follows:
 
 Brief reflection in the end:
 
-Except point number 4 (learning basics of graph data structure), everything els\
-e was part of the project in some or another. More detailed reflection will be \
-in the formal paper submitted to the professor.
+Except point number 4 (learning basics of graph data structure), everything else was part of the project in some way or another. More detailed reflection will be in the formal paper submitted to the professor.
